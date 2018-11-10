@@ -1,8 +1,8 @@
 ---
 - name: Install PHP Coding Standards Fixer.
-  become: yes
+  become: true
   get_url:
     url: http://cs.sensiolabs.org/download/php-cs-fixer-v2.phar
     dest: /usr/local/bin/php-cs-fixer
     mode: 0755
-    force: yes
+    force: true
