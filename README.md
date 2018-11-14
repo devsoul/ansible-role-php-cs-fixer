@@ -1,6 +1,6 @@
 PHP Coding Standards Fixer Ansible Role
 =========
-[![Build Status](https://travis-ci.org/devsoul/ansible-role-php-cs-fixer.svg?branch=master)](https://travis-ci.org/devsoul/ansible-role-php-cs-fixer)
+[![Build Status](https://travis-ci.com/devsoul/ansible-role-php-cs-fixer.svg?branch=master)](https://travis-ci.com/devsoul/ansible-role-php-cs-fixer)
 
 If you are a PHP developer and you use PHP Coding Standards Fixer.
 
